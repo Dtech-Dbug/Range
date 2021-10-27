@@ -6,6 +6,6 @@ Pythonic way of running for loops using Range function implemented in JavaScript
 
 - Format :
 
-````js
- Range(start, limit, step) ```
-````
+```js
+Range(start, limit, step);
+```
