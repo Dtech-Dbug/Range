@@ -1,4 +1,5 @@
 function Range(start = 0, limit, step = 1) {
+  let iterators = [];
   // check args vector
   if (arguments.length == 1) {
     limit = arguments[0];
@@ -6,8 +7,11 @@ function Range(start = 0, limit, step = 1) {
   }
 
   for (i = start; i < limit; i = i + step) {
-    return i;
+    iterators.push(i);
   }
+
+  return iterators;
 }
 
-Range(10);
+// console.log(Range(10));
+// Range(10);
