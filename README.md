@@ -53,3 +53,10 @@ for (i of Range(4, 8)) {
 }
 // 4, 5, 6, 7
 ```
+
+```js
+for (i of Range(4, 12, 2)) {
+  console.log(i);
+}
+// 4, 6, 8, 10
+```
