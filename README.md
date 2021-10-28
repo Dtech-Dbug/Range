@@ -21,6 +21,19 @@ Range(start, limit, step);
 
 - **Step:** The count of iteration. By default set to 1
 
+## Installation
+
+- Using npm
+  `npm i range`
+
+```js
+//commonjs
+const range = require("range");
+
+//modules
+import range from "range";
+```
+
 ## In Use
 
 ```js
