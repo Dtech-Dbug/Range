@@ -8,16 +8,20 @@ Pythonic way of running for loops using Range function implemented in JavaScript
 
 ```js
 // Required argument
-Range(limit);
+range(limit);
 
 // Optional arguments
-Range(start, limit, step);
+range(start, limit, step);
+
+// start count is by default : 0;
+// step count is by default : 1. i.e, unit iteration.
 ```
 
 - **Start:** The start of the count. By default it is set to 0.
-  To override the preset value pass an integer. Inclusive.
+  To override the preset value pass an integer. (Inclusive).
 
-- **Limit:** The maximum you would want to count. This is a required argument.
+- **Limit:** The maximum you would want to count. This is a required argument. The Limit argument is (Exlusive)
+  **_i.e, range(3) will count from 0 to 2 - that is 3 indices : 0, 1, 2_. Zero is preset start count.Check the `In Use` section to know how to override the preset values.\***
 
 - **Step:** The count of iteration. By default set to 1
 
