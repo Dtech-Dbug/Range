@@ -20,8 +20,8 @@ range(start, limit, step);
 - **Start:** The start of the count. By default it is set to 0.
   To override the preset value pass an integer. (Inclusive).
 
-- **Limit:** The maximum you would want to count. This is a required argument. The Limit argument is (Exlusive)
-  **_i.e, range(3) will count from 0 to 2 - that is 3 indices : 0, 1, 2_. Zero is preset start count.Check the `In Use` section to know how to override the preset values.\***
+- **Limit:** The maximum you would want to count. This is a required argument. The Limit argument is (Exclusive)
+  **_i.e, range(3) will count from 0 to 2 - that is 3 indices : 0, 1, 2. Zero is preset start count.Check the `In Use` section to know how to override the preset values._**
 
 - **Step:** The count of iteration. By default set to 1
 
