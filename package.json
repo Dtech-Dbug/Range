@@ -2,9 +2,10 @@
   "name": "range",
   "version": "1.0.0",
   "description": "Pythonic way of running for loops using Range function implemented in JavaScript. Cause- why not?",
-  "main": "index.js",
+  "main": "lib/index.js",
+  "types": "lib",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "tsc -p ."
   },
   "repository": {
     "type": "git",
