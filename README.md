@@ -60,3 +60,8 @@ for (i of Range(4, 12, 2)) {
 }
 // 4, 6, 8, 10
 ```
+
+## Report feedbacks, complaints, feature requests... 📩
+
+- Reach out to me via twitter/linkedin (socials linked with Github)
+- Or raise an issue for feature request or updates.
