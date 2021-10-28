@@ -1,6 +1,6 @@
-# Range
+# range
 
-Pythonic way of running for loops using Range function implemented in JavaScript. Cause- why not?
+Pythonic way of using Range function implemented in TypeScript. Cause- why not?
 
 ## Implementation
 
