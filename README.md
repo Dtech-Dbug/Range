@@ -42,21 +42,21 @@ import range from "python-ranger";
 ## In Use
 
 ```js
-for (i of Range(3)) {
+for (i of range(3)) {
   console.log(i);
 }
 // 0, 1, 2
 ```
 
 ```js
-for (i of Range(4, 8)) {
+for (i of range(4, 8)) {
   console.log(i);
 }
 // 4, 5, 6, 7
 ```
 
 ```js
-for (i of Range(4, 12, 2)) {
+for (i of range(4, 12, 2)) {
   console.log(i);
 }
 // 4, 6, 8, 10
