@@ -28,14 +28,14 @@ range(start, limit, step);
 ## Installation
 
 - Using npm
-  `npm i range`
+  `npm i python-range`
 
 ```js
 //commonjs
-const range = require("range");
+const range = require("python-range");
 
 //modules
-import range from "range";
+import range from "python-range";
 ```
 
 ## In Use
