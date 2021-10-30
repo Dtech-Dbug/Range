@@ -1,5 +1,5 @@
 {
-  "name": "range",
+  "name": "python-ranger",
   "version": "1.0.0",
   "description": "Pythonic way of using range function implemented in TypeScript/JavaScript. Cause- why not?",
   "main": "lib/index.js",
