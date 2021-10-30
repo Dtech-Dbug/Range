@@ -23,5 +23,4 @@ function range(start: number = 0, limit: number, step: number = 1) {
   return iterators;
 }
 
-console.log(range(10, 1, -2));
 module.exports = range;
