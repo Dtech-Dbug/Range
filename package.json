@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/Dtech-Dbug/Range/issues"
   },
-  "homepage": "https://github.com/Dtech-Dbug/Range#readme"
+  "homepage": "https://github.com/Dtech-Dbug/Range#readme",
+  "devDependencies": {
+    "jest": "^27.3.1"
+  }
 }
